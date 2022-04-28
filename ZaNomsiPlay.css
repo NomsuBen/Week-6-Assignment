@@ -92,12 +92,12 @@ footer .footer-cols {
   footer .footer-cols ul li:first-child {
     font-size: 1.2rem;
     padding-bottom: 0.5rem;
-    border-bottom: #444 solid 1px;
+    border-bottom: maroon solid 1px;
     margin-bottom: 1rem;
   }
 
   footer .footer-bottom {
-    background: #333;
+    background: black;
     padding: 1rem;
   }
 
