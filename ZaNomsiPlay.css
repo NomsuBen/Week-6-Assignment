@@ -109,10 +109,12 @@ footer .footer-cols {
     text-align: center;
     margin: 0 auto;
     padding: 0 3rem;
+    color: #000;
   }
 
 .lead {
-    font-size: 1.3rem;
+    font-size: 1.5rem;
+    color: white;
 }
 
 .text-center {
@@ -158,7 +160,7 @@ footer .footer-cols {
   }
 
   .bg-light {
-    background: var(--light-color);
+    background: cornflowerblue;
     color: #333;
   }
 
